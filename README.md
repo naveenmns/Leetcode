@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveenmns/Leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 <!---LeetCode Topics End-->
