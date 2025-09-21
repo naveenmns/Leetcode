@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/naveenmns/Leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
