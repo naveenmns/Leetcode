@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/naveenmns/Leetcode/tree/master/0541-reverse-string-ii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Dynamic Programming
 |  |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/naveenmns/Leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/naveenmns/Leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
