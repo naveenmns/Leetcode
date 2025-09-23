@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveenmns/Leetcode/tree/master/0002-add-two-numbers) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/naveenmns/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2288-count-operations-to-obtain-zero](https://github.com/naveenmns/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/naveenmns/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/naveenmns/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Simulation
 |  |
 | ------- |
