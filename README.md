@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/naveenmns/Leetcode/tree/master/0136-single-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/naveenmns/Leetcode/tree/master/0541-reverse-string-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
