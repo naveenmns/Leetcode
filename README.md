@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveenmns/Leetcode/tree/master/0002-add-two-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/naveenmns/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/naveenmns/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2288-count-operations-to-obtain-zero](https://github.com/naveenmns/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/naveenmns/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0541-reverse-string-ii](https://github.com/naveenmns/Leetcode/tree/master/0541-reverse-string-ii) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/naveenmns/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Dynamic Programming
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/naveenmns/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/naveenmns/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/naveenmns/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Sorting
